@@ -1,0 +1,280 @@
+[
+    {
+        "chef": {
+            "name": "Alice Smith",
+            "experience_years": 10,
+            "like": 106,
+            "number_of_recepi": 3,
+            "short_bio": "Alice Smith is a renowned chef known for her delicious and creative dishes. With over 10 years of experience in the culinary world, she has honed her skills and developed a unique style that combines classic techniques with modern flavors.",
+            "picture": "https://images.pexels.com/photos/14885422/pexels-photo-14885422.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        "recipes": [
+            {
+                "name": "Lemon Chicken",
+                "picture": "https://media.istockphoto.com/id/155428449/photo/grilled-chicken-and-pasta.jpg?s=612x612&w=0&k=20&c=MT6TuInRtxliZXR8perdHYaK3pXf5Ob8DTho5KaRLiI=",
+                "method": [
+                    "Preheat oven to 400°F.",
+                    "Mix together olive oil, lemon juice, garlic, salt, and black pepper in a small bowl.",
+                    "Coat the chicken with the mixture.",
+                    "Place the chicken in a baking dish and bake for 25-30 minutes.",
+                    "Garnish with lemon wedges and serve."
+                ]
+            },
+            {
+                "name": "Garlic Shrimp Pasta",
+                "picture": "https://media.istockphoto.com/id/610681138/photo/shrimp-scampi-with-spaghetti.jpg?s=612x612&w=0&k=20&c=fKuUPOo9NWMl98Sp5Pqu_wJvU8fiCIuJo_5Y6z2TMro=",
+                "method": [
+                    "Cook pasta according to package directions.",
+                    "In a large skillet, heat olive oil over medium-high heat.",
+                    "Add garlic and cook until fragrant.",
+                    "Add shrimp and cook until pink.",
+                    "Stir in cooked pasta and parsley.",
+                    "Serve hot."
+                ]
+            },
+            {
+                "name": "Chocolate Cake",
+                "picture": "https://media.istockphoto.com/id/1370520449/photo/slice-of-chocolate-cake-with-glaze.jpg?s=612x612&w=0&k=20&c=KK-h7w4l0FNA0YMWvkr1X8UrAAB77z0f5tTByBYgReM=",
+                "method": [
+                    "Preheat oven to 350°F.",
+                    "Grease and flour a cake pan.",
+                    "Mix together flour, sugar, cocoa powder, baking soda, and salt in a large bowl.",
+                    "Add eggs, milk, oil, and vanilla extract to the dry ingredients and mix until smooth.",
+                    "Pour batter into the prepared pan and bake for 30-35 minutes.",
+                    "Let cool and frost with your favorite frosting."
+                ]
+            }
+        ]
+    },
+    {
+        "chef": {
+            "name": "Carlos Rodriguez",
+            "experience_years": 20,
+            "like": 78,
+            "number_of_recepi": 3,
+            "short_bio": "Carlos Rodriguez is a classically trained chef with over 20 years of experience in the culinary industry. He specializes in traditional Spanish cuisine and is known for his expert use of fresh herbs and spices to create bold and flavorful dishes.",
+            "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "recipes": [
+            {
+                "name": "Paella",
+                "picture": "https://media.istockphoto.com/id/607991782/photo/traditional-spanish-paella-with-seafood-and-chicken.jpg?s=612x612&w=0&k=20&c=m7pKIt42ihApJd89_F6Nb8w7Eg9ZIn5Mw6YBXW3-Xxc=",
+                "method": [
+                    "Heat olive oil in a large skillet over medium heat.",
+                    "Add chopped onion, red pepper, and garlic and cook until softened.",
+                    "Add chicken, chorizo, and paprika and cook until browned.",
+                    "Add rice and stir to coat with the mixture.",
+                    "Pour in chicken broth and saffron and bring to a boil.",
+                    "Reduce heat and simmer until the rice is tender and the liquid has been absorbed.",
+                    "Stir in peas and chopped parsley and serve hot."
+                ]
+            },
+            {
+                "name": "Gazpacho",
+                "picture": "https://media.istockphoto.com/id/115808676/photo/gazpacho.jpg?s=612x612&w=0&k=20&c=3GYkx5GIEOZMcS-htq2N7YO4uTqinToXLuu30C51kTU=",
+                "method": [
+                    "Combine chopped tomatoes, cucumber, red onion, and bell pepper in a blender.",
+                    "Add olive oil, red wine vinegar, garlic, and salt and blend until smooth.",
+                    "Add ice water to achieve desired consistency.",
+                    "Chill in the refrigerator for at least 2 hours.",
+                    "Serve cold, garnished with chopped parsley and croutons."
+                ]
+            },
+            {
+                "name": "Tortilla Española",
+                "picture": "https://media.istockphoto.com/id/1364574555/photo/spanish-potato-omelet-on-table.jpg?s=612x612&w=0&k=20&c=XMjuCXNAOdyg4MCunfNRYQq2IK0Jc9jH7pfpFpOmUdo=",
+                "method": [
+                    "Heat olive oil in a large skillet over medium heat.",
+                    "Add sliced potatoes and onion and cook until softened.",
+                    "Beat eggs in a bowl and stir in the potato mixture.",
+                    "Return the mixture to the skillet and cook until set.",
+                    "Flip the tortilla over and cook until browned.",
+                    "Serve hot or cold, cut into wedges."
+                ]
+            }
+        ]
+    },
+    {
+        "chef": {
+            "name": "Sara Kim",
+            "experience_years": 15,
+            "like": 92,
+            "number_of_recepi": 3,
+            "short_bio": "Sara Kim is a renowned chef with over 15 years of experience. She has a passion for creating healthy and delicious meals that are easy to make at home. Sara is also a food blogger and social media influencer, with a large following of fans who love her approachable and relatable style.",
+            "picture": "https://media.istockphoto.com/id/1298262538/photo/photo-of-happy-chef-man-holding-utensil-for-cooking-meat.jpg?b=1&s=170667a&w=0&k=20&c=fhZQIFiEvc9_xZZrbLEJSapBKaAfroGIf1yi1MUIdkc="
+        },
+        "recipes": [
+            {
+                "name": "Korean BBQ Beef",
+                "picture": "https://media.istockphoto.com/id/1222459676/photo/korean-barbecue-at-a-korean-restaurant.jpg?s=612x612&w=0&k=20&c=2qvr9tWPnmiT5uPEEv-97xsv6SFk0xza2UmLxJFEgaU=",
+                "method": [
+                    "Marinate thinly sliced beef in soy sauce, sugar, sesame oil, garlic, and black pepper for at least 30 minutes.",
+                    "Grill the beef over high heat until browned and crispy.",
+                    "Serve with rice and kimchi."
+                ]
+            },
+            {
+                "name": "Spicy Tofu Stir-Fry",
+                "picture": "https://media.istockphoto.com/id/880383130/photo/stir-fried-tofu.jpg?s=612x612&w=0&k=20&c=-d-zCM8jBJY9wgGYnUm-EJl5t26cdobnYwvM87vpmOo=",
+                "method": [
+                    "Fry cubed tofu in a hot pan until crispy.",
+                    "Add sliced vegetables such as bell peppers, onions, and carrots and stir-fry until softened.",
+                    "Mix together soy sauce, honey, sriracha, and cornstarch in a bowl.",
+                    "Pour the sauce over the vegetables and tofu and stir-fry until thickened.",
+                    "Serve with rice."
+                ]
+            },
+            {
+                "name": "Bibimbap",
+                "picture": "https://media.istockphoto.com/id/155385236/photo/dolsot-bibimbap.jpg?s=612x612&w=0&k=20&c=icVgcBNMki3Mkz6D8OTzZTCSjGAkQ2aXOBCSErc__28=",
+                "method": [
+                    "Cook rice according to package directions.",
+                    "Sauté sliced vegetables such as spinach, mushrooms, and carrots in a hot pan.",
+                    "Fry an egg and set aside.",
+                    "Arrange the rice and vegetables in a bowl.",
+                    "Top with the fried egg and sliced beef or tofu.",
+                    "Drizzle with gochujang sauce and sesame oil.",
+                    "Mix everything together before eating."
+                ]
+            }
+        ]
+    },
+    {
+        "chef": {
+            "name": "James Lee",
+            "experience_years": 15,
+            "like": 452,
+            "number_of_recipes": 3,
+            "short_bio": "Chef James Lee is a seasoned chef with over 15 years of experience in the culinary arts. His passion for food is evident in every dish he creates, and he is known for his ability to take classic dishes and elevate them with a modern twist.",
+            "picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww="
+        },
+        "recipes": [
+            {
+                "name": "Grilled Ribeye Steak",
+                "picture": "https://media.istockphoto.com/id/686104342/photo/sliced-steak-ribeye.jpg?s=612x612&w=0&k=20&c=PBlKJUc8bC1HzKUjK2-U62x5nyqTjMs2rld8tmk4smM=",
+                "method": [
+                    "Preheat grill to high heat.",
+                    "Rub steak with olive oil, salt, and pepper.",
+                    "Grill steak for 4-5 minutes per side for medium-rare.",
+                    "Let steak rest for 5 minutes before slicing and serving."
+                ]
+            },
+            {
+                "name": "Truffle Risotto",
+                "picture": "https://media.istockphoto.com/id/158176199/photo/mushrooms-risotto-with-truffles.jpg?s=612x612&w=0&k=20&c=eyt1kFuAmKIyRzrKKnLKT0qz_bLEGErozZVojU4SrPc=",
+                "method": [
+                    "Heat chicken broth in a saucepan over medium heat.",
+                    "In a separate pan, sauté onion and garlic in olive oil until translucent.",
+                    "Add arborio rice to the pan and cook for 1-2 minutes.",
+                    "Slowly add chicken broth to the rice, stirring constantly, until the rice is cooked and creamy.",
+                    "Stir in truffle oil and parmesan cheese.",
+                    "Serve hot."
+                ]
+            },
+            {
+                "name": "Caramelized Onion and Goat Cheese Tart",
+                "picture": "https://media.istockphoto.com/id/1344798872/photo/butternut-squash-galette-with-caramelized-onion-and-crumbled-feta-cheese-on-a-wood-board-on-a.jpg?s=612x612&w=0&k=20&c=6BX_eqXSyWgBWHdyavRpGcMGjNzOU0byB4zYmJ4bMjU=",
+                "method": [
+                    "Preheat oven to 400°F.",
+                    "Unroll a sheet of puff pastry and place on a baking sheet.",
+                    "Spread caramelized onions on the pastry.",
+                    "Crumble goat cheese over the onions.",
+                    "Bake for 15-20 minutes or until pastry is golden brown.",
+                    "Garnish with fresh thyme before serving."
+                ]
+            }
+        ]
+    },
+    {
+        "chef": {
+            "name": "Samantha Green",
+            "experience_years": 8,
+            "like": 231,
+            "number_of_recipes": 3,
+            "short_bio": "Chef Samantha Green is a young and talented chef who specializes in creating healthy, flavorful dishes using locally-sourced ingredients. She is passionate about promoting sustainable and ethical food practices, and her recipes reflect this commitment.",
+            "picture": "https://media.istockphoto.com/id/639911192/photo/cooking-together.jpg?s=612x612&w=0&k=20&c=J2G_IkyR6BNjryECbvvaYFH6UZIVDKNQZtwk4II3THY="
+        },
+        "recipes": [
+            {
+                "name": "Quinoa Salad with Roasted Vegetables",
+                "picture": "https://media.istockphoto.com/id/920931456/photo/healthy-buddha-bowl-lunch-with-grilled-chicken-quinoa-spinach-avocado-brussels-sprouts.jpg?s=612x612&w=0&k=20&c=2ZMDpAVWCpjWC801LqWqTck54C6cvZUgtlXZzx7oim0=",
+                "method": [
+                    "Preheat oven to 400°F.",
+                    "Toss chopped vegetables (such as bell peppers, zucchini, and red onion) with olive oil and season with salt and pepper.",
+                    "Roast vegetables in the oven for 20-25 minutes, or until tender.",
+                    "Cook quinoa according to package directions.",
+                    "Mix cooked quinoa with roasted vegetables, chopped herbs (such as parsley and basil), and a simple vinaigrette (such as olive oil, lemon juice, and honey).",
+                    "Serve warm or chilled."
+                ]
+            },
+            {
+                "name": "Ginger Soy Glazed Salmon",
+                "picture": "https://media.istockphoto.com/id/1011033408/photo/salmon-belly-grilled-teriyaki.jpg?s=612x612&w=0&k=20&c=Crx0oSQJS0GWgRXiVikvp_mmgMZRcj5d2IjjqSI42Sw=",
+                "method": [
+                    "Preheat oven to 375°F.",
+                    "Mix together soy sauce, minced ginger, minced garlic, honey, and sesame oil in a small bowl.",
+                    "Place salmon fillets on a baking sheet and brush with the soy mixture.",
+                    "Bake for 12-15 minutes, or until salmon is cooked through.",
+                    "Serve hot, garnished with chopped scallions and sesame seeds."
+                ]
+            },
+            {
+                "name": "Mixed Berry Smoothie Bowl",
+                "picture": "https://media.istockphoto.com/id/925240050/photo/smoothie-bowl-with-banana-strawberry-blueberry-granola-and-pomegranate.jpg?s=612x612&w=0&k=20&c=ikpuBVK4cGhQ9duLdnnFTcztZkGiZ8QXSt_r0StexXk=",
+                "method": [
+                    "Blend together frozen mixed berries, almond milk, and a banana in a blender until smooth.",
+                    "Pour the smoothie into a bowl and top with sliced fruit (such as kiwi, strawberries, and blueberries), granola, and a drizzle of honey.",
+                    "Serve immediately."
+                ]
+            }
+        ]
+    },
+    {
+        "chef": {
+            "name": "David Kim",
+            "experience_years": 8,
+            "like": 205,
+            "number_of_recepi": 3,
+            "short_bio": "Chef David Kim is a self-taught chef who has honed his skills through years of experience in top-rated restaurants. He is known for his creative and delicious fusion cuisine that combines traditional Korean flavors with modern techniques.",
+            "picture": "https://media.istockphoto.com/id/1136638047/photo/i-love-my-work-cheerful-young-chef-in-apron-keeping-tattooed-arms-crossed-and-smiling-while.jpg?s=612x612&w=0&k=20&c=XDfN4eo_AWH_LM7KLNL8jHCQY9wjkVwRBFMNo-z_4C8="
+        },
+        "recipes": [
+            {
+                "name": "Bibimbap",
+                "picture": "https://media.istockphoto.com/id/1194088849/photo/traditional-korean-dish-bibimbap.jpg?s=612x612&w=0&k=20&c=LC6qM9-QXhLMSoia4VqwD-0m-EZVPctuAu2X-7izbwE=",
+                "method": [
+                    "Cook rice according to package instructions.",
+                    "Heat a large skillet over medium-high heat and add beef, garlic, and soy sauce. Cook until beef is browned.",
+                    "Remove beef from skillet and set aside.",
+                    "Add carrots, spinach, and bean sprouts to the skillet and cook until tender.",
+                    "Divide rice among four bowls and top with beef and vegetables.",
+                    "Serve with gochujang sauce and a fried egg on top."
+                ]
+            },
+            {
+                "name": "Korean Fried Chicken",
+                "picture": "https://media.istockphoto.com/id/694433058/photo/korea-style-chicken.jpg?s=612x612&w=0&k=20&c=OfRJJ7ipDk-drFrxW-7ZseOOiXJnY3sIhb3IXU3165o=",
+                "method": [
+                    "Mix together flour, cornstarch, salt, and pepper in a bowl.",
+                    "Dip chicken pieces in the flour mixture and set aside.",
+                    "Heat oil in a large pot over medium-high heat.",
+                    "Fry chicken pieces until golden brown and cooked through.",
+                    "In a separate bowl, mix together gochujang, honey, soy sauce, garlic, and ginger.",
+                    "Toss the fried chicken pieces in the gochujang mixture and serve hot."
+                ]
+            },
+            {
+                "name": "Korean Beef Bulgogi",
+                "picture": "https://media.istockphoto.com/id/155153533/photo/bulgogi-on-a-wooden-platter-on-a-straw-table.jpg?s=612x612&w=0&k=20&c=ZpPpcLvdPxavpBU-cZF92iX9Jhl9lQZKeRWocDsUu3U=",
+                "method": [
+                    "Mix together soy sauce, sugar, sesame oil, garlic, and ginger in a bowl.",
+                    "Add sliced beef to the bowl and toss to coat.",
+                    "Cover and marinate in the refrigerator for at least 30 minutes.",
+                    "Heat a large skillet over high heat and add beef with the marinade.",
+                    "Cook until beef is browned and cooked through.",
+                    "Serve hot with rice and vegetables."
+                ]
+            }
+        ]
+    }
+]
