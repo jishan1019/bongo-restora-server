@@ -12,6 +12,7 @@
         "recipes": [
             {
                 "name": "Lemon Chicken",
+                "rating": 4.1,
                 "picture": "https://media.istockphoto.com/id/155428449/photo/grilled-chicken-and-pasta.jpg?s=612x612&w=0&k=20&c=MT6TuInRtxliZXR8perdHYaK3pXf5Ob8DTho5KaRLiI=",
                 "method": [
                     "Preheat oven to 400°F.",
@@ -23,6 +24,7 @@
             },
             {
                 "name": "Garlic Shrimp Pasta",
+                "rating": 4.1,
                 "picture": "https://media.istockphoto.com/id/610681138/photo/shrimp-scampi-with-spaghetti.jpg?s=612x612&w=0&k=20&c=fKuUPOo9NWMl98Sp5Pqu_wJvU8fiCIuJo_5Y6z2TMro=",
                 "method": [
                     "Cook pasta according to package directions.",
@@ -35,6 +37,7 @@
             },
             {
                 "name": "Chocolate Cake",
+                "rating": 4.1,
                 "picture": "https://media.istockphoto.com/id/1370520449/photo/slice-of-chocolate-cake-with-glaze.jpg?s=612x612&w=0&k=20&c=KK-h7w4l0FNA0YMWvkr1X8UrAAB77z0f5tTByBYgReM=",
                 "method": [
                     "Preheat oven to 350°F.",
@@ -60,6 +63,7 @@
         "recipes": [
             {
                 "name": "Paella",
+                "rating": 4.3,
                 "picture": "https://media.istockphoto.com/id/607991782/photo/traditional-spanish-paella-with-seafood-and-chicken.jpg?s=612x612&w=0&k=20&c=m7pKIt42ihApJd89_F6Nb8w7Eg9ZIn5Mw6YBXW3-Xxc=",
                 "method": [
                     "Heat olive oil in a large skillet over medium heat.",
@@ -73,6 +77,7 @@
             },
             {
                 "name": "Gazpacho",
+                "rating": 4.3,
                 "picture": "https://media.istockphoto.com/id/115808676/photo/gazpacho.jpg?s=612x612&w=0&k=20&c=3GYkx5GIEOZMcS-htq2N7YO4uTqinToXLuu30C51kTU=",
                 "method": [
                     "Combine chopped tomatoes, cucumber, red onion, and bell pepper in a blender.",
@@ -84,6 +89,7 @@
             },
             {
                 "name": "Tortilla Española",
+                "rating": 3.9,
                 "picture": "https://media.istockphoto.com/id/1364574555/photo/spanish-potato-omelet-on-table.jpg?s=612x612&w=0&k=20&c=XMjuCXNAOdyg4MCunfNRYQq2IK0Jc9jH7pfpFpOmUdo=",
                 "method": [
                     "Heat olive oil in a large skillet over medium heat.",
@@ -109,6 +115,7 @@
         "recipes": [
             {
                 "name": "Korean BBQ Beef",
+                "rating": 4.3,
                 "picture": "https://media.istockphoto.com/id/1222459676/photo/korean-barbecue-at-a-korean-restaurant.jpg?s=612x612&w=0&k=20&c=2qvr9tWPnmiT5uPEEv-97xsv6SFk0xza2UmLxJFEgaU=",
                 "method": [
                     "Marinate thinly sliced beef in soy sauce, sugar, sesame oil, garlic, and black pepper for at least 30 minutes.",
@@ -118,6 +125,7 @@
             },
             {
                 "name": "Spicy Tofu Stir-Fry",
+                "rating": 4.5,
                 "picture": "https://media.istockphoto.com/id/880383130/photo/stir-fried-tofu.jpg?s=612x612&w=0&k=20&c=-d-zCM8jBJY9wgGYnUm-EJl5t26cdobnYwvM87vpmOo=",
                 "method": [
                     "Fry cubed tofu in a hot pan until crispy.",
@@ -129,6 +137,7 @@
             },
             {
                 "name": "Bibimbap",
+                "rating": 4.0,
                 "picture": "https://media.istockphoto.com/id/155385236/photo/dolsot-bibimbap.jpg?s=612x612&w=0&k=20&c=icVgcBNMki3Mkz6D8OTzZTCSjGAkQ2aXOBCSErc__28=",
                 "method": [
                     "Cook rice according to package directions.",
@@ -155,6 +164,7 @@
         "recipes": [
             {
                 "name": "Grilled Ribeye Steak",
+                "rating": 4.2,
                 "picture": "https://media.istockphoto.com/id/686104342/photo/sliced-steak-ribeye.jpg?s=612x612&w=0&k=20&c=PBlKJUc8bC1HzKUjK2-U62x5nyqTjMs2rld8tmk4smM=",
                 "method": [
                     "Preheat grill to high heat.",
@@ -165,6 +175,7 @@
             },
             {
                 "name": "Truffle Risotto",
+                "rating": 4.2,
                 "picture": "https://media.istockphoto.com/id/158176199/photo/mushrooms-risotto-with-truffles.jpg?s=612x612&w=0&k=20&c=eyt1kFuAmKIyRzrKKnLKT0qz_bLEGErozZVojU4SrPc=",
                 "method": [
                     "Heat chicken broth in a saucepan over medium heat.",
@@ -177,6 +188,7 @@
             },
             {
                 "name": "Caramelized Onion and Goat Cheese Tart",
+                "rating": 4.5,
                 "picture": "https://media.istockphoto.com/id/1344798872/photo/butternut-squash-galette-with-caramelized-onion-and-crumbled-feta-cheese-on-a-wood-board-on-a.jpg?s=612x612&w=0&k=20&c=6BX_eqXSyWgBWHdyavRpGcMGjNzOU0byB4zYmJ4bMjU=",
                 "method": [
                     "Preheat oven to 400°F.",
@@ -202,6 +214,7 @@
         "recipes": [
             {
                 "name": "Quinoa Salad with Roasted Vegetables",
+                "rating": 4.5,
                 "picture": "https://media.istockphoto.com/id/920931456/photo/healthy-buddha-bowl-lunch-with-grilled-chicken-quinoa-spinach-avocado-brussels-sprouts.jpg?s=612x612&w=0&k=20&c=2ZMDpAVWCpjWC801LqWqTck54C6cvZUgtlXZzx7oim0=",
                 "method": [
                     "Preheat oven to 400°F.",
@@ -214,6 +227,7 @@
             },
             {
                 "name": "Ginger Soy Glazed Salmon",
+                "rating": 4.5,
                 "picture": "https://media.istockphoto.com/id/1011033408/photo/salmon-belly-grilled-teriyaki.jpg?s=612x612&w=0&k=20&c=Crx0oSQJS0GWgRXiVikvp_mmgMZRcj5d2IjjqSI42Sw=",
                 "method": [
                     "Preheat oven to 375°F.",
@@ -225,6 +239,7 @@
             },
             {
                 "name": "Mixed Berry Smoothie Bowl",
+                "rating": 4.8,
                 "picture": "https://media.istockphoto.com/id/925240050/photo/smoothie-bowl-with-banana-strawberry-blueberry-granola-and-pomegranate.jpg?s=612x612&w=0&k=20&c=ikpuBVK4cGhQ9duLdnnFTcztZkGiZ8QXSt_r0StexXk=",
                 "method": [
                     "Blend together frozen mixed berries, almond milk, and a banana in a blender until smooth.",
@@ -247,6 +262,7 @@
         "recipes": [
             {
                 "name": "Bibimbap",
+                "rating": 4.7,
                 "picture": "https://media.istockphoto.com/id/1194088849/photo/traditional-korean-dish-bibimbap.jpg?s=612x612&w=0&k=20&c=LC6qM9-QXhLMSoia4VqwD-0m-EZVPctuAu2X-7izbwE=",
                 "method": [
                     "Cook rice according to package instructions.",
@@ -259,6 +275,7 @@
             },
             {
                 "name": "Korean Fried Chicken",
+                "rating": 4.7,
                 "picture": "https://media.istockphoto.com/id/694433058/photo/korea-style-chicken.jpg?s=612x612&w=0&k=20&c=OfRJJ7ipDk-drFrxW-7ZseOOiXJnY3sIhb3IXU3165o=",
                 "method": [
                     "Mix together flour, cornstarch, salt, and pepper in a bowl.",
@@ -271,6 +288,7 @@
             },
             {
                 "name": "Korean Beef Bulgogi",
+                "rating": 4.7,
                 "picture": "https://media.istockphoto.com/id/155153533/photo/bulgogi-on-a-wooden-platter-on-a-straw-table.jpg?s=612x612&w=0&k=20&c=ZpPpcLvdPxavpBU-cZF92iX9Jhl9lQZKeRWocDsUu3U=",
                 "method": [
                     "Mix together soy sauce, sugar, sesame oil, garlic, and ginger in a bowl.",
