@@ -1,10 +1,11 @@
 [
     {
+        "id": 1,
         "chef": {
             "name": "Alice Smith",
             "experience_years": 10,
             "like": 106,
-            "number_of_recepi": 3,
+            "number_of_recipes": 3,
             "short_bio": "Alice Smith is a renowned chef known for her delicious and creative dishes. With over 10 years of experience in the culinary world, she has honed her skills and developed a unique style that combines classic techniques with modern flavors.",
             "picture": "https://images.pexels.com/photos/14885422/pexels-photo-14885422.jpeg?auto=compress&cs=tinysrgb&w=400"
         },
@@ -47,13 +48,14 @@
         ]
     },
     {
+        "id": 2,
         "chef": {
             "name": "Carlos Rodriguez",
             "experience_years": 20,
             "like": 78,
-            "number_of_recepi": 3,
+            "number_of_recipes": 3,
             "short_bio": "Carlos Rodriguez is a classically trained chef with over 20 years of experience in the culinary industry. He specializes in traditional Spanish cuisine and is known for his expert use of fresh herbs and spices to create bold and flavorful dishes.",
-            "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            "picture": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=612x612&w=0&k=20&c=rvWTwbW54nIHwsZIjSU8TzX1_VQqzAnjjJuWm5zOlhw="
         },
         "recipes": [
             {
@@ -95,11 +97,12 @@
         ]
     },
     {
+        "id": 3,
         "chef": {
             "name": "Sara Kim",
             "experience_years": 15,
             "like": 92,
-            "number_of_recepi": 3,
+            "number_of_recipes": 3,
             "short_bio": "Sara Kim is a renowned chef with over 15 years of experience. She has a passion for creating healthy and delicious meals that are easy to make at home. Sara is also a food blogger and social media influencer, with a large following of fans who love her approachable and relatable style.",
             "picture": "https://media.istockphoto.com/id/1298262538/photo/photo-of-happy-chef-man-holding-utensil-for-cooking-meat.jpg?b=1&s=170667a&w=0&k=20&c=fhZQIFiEvc9_xZZrbLEJSapBKaAfroGIf1yi1MUIdkc="
         },
@@ -140,6 +143,7 @@
         ]
     },
     {
+        "id": 4,
         "chef": {
             "name": "James Lee",
             "experience_years": 15,
@@ -186,6 +190,7 @@
         ]
     },
     {
+        "id": 5,
         "chef": {
             "name": "Samantha Green",
             "experience_years": 8,
@@ -230,11 +235,12 @@
         ]
     },
     {
+        "id": 6,
         "chef": {
             "name": "David Kim",
             "experience_years": 8,
             "like": 205,
-            "number_of_recepi": 3,
+            "number_of_recipes": 3,
             "short_bio": "Chef David Kim is a self-taught chef who has honed his skills through years of experience in top-rated restaurants. He is known for his creative and delicious fusion cuisine that combines traditional Korean flavors with modern techniques.",
             "picture": "https://media.istockphoto.com/id/1136638047/photo/i-love-my-work-cheerful-young-chef-in-apron-keeping-tattooed-arms-crossed-and-smiling-while.jpg?s=612x612&w=0&k=20&c=XDfN4eo_AWH_LM7KLNL8jHCQY9wjkVwRBFMNo-z_4C8="
         },

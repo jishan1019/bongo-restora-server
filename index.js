@@ -15,6 +15,14 @@ app.get('/allChefData', (req, res) => {
     res.send(data)
 })
 
+app.get('/allChefData/:id', (req, res) => {
+    const chefId = req.params.id
+    const chef = data.find(c => c.id === parseInt(chefId))
+    if (!chef) {
+        return res.status(404).send("Chef not found")
+    }
+    res.send(chef)
+})
 
 app.listen(port, () => {
     console.log("App Running On Port");
