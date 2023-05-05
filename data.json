@@ -24,7 +24,7 @@
             },
             {
                 "name": "Garlic Shrimp Pasta",
-                "rating": 4.1,
+                "rating": 3.8,
                 "picture": "https://media.istockphoto.com/id/610681138/photo/shrimp-scampi-with-spaghetti.jpg?s=612x612&w=0&k=20&c=fKuUPOo9NWMl98Sp5Pqu_wJvU8fiCIuJo_5Y6z2TMro=",
                 "method": [
                     "Cook pasta according to package directions.",
@@ -37,7 +37,7 @@
             },
             {
                 "name": "Chocolate Cake",
-                "rating": 4.1,
+                "rating": 4.6,
                 "picture": "https://media.istockphoto.com/id/1370520449/photo/slice-of-chocolate-cake-with-glaze.jpg?s=612x612&w=0&k=20&c=KK-h7w4l0FNA0YMWvkr1X8UrAAB77z0f5tTByBYgReM=",
                 "method": [
                     "Preheat oven to 350°F.",
@@ -120,7 +120,9 @@
                 "method": [
                     "Marinate thinly sliced beef in soy sauce, sugar, sesame oil, garlic, and black pepper for at least 30 minutes.",
                     "Grill the beef over high heat until browned and crispy.",
-                    "Serve with rice and kimchi."
+                    "Serve with rice and kimchi.",
+                    "Pour the sauce over the vegetables and tofu and stir-fry until thickened.",
+                    "Serve with rice."
                 ]
             },
             {
@@ -170,12 +172,13 @@
                     "Preheat grill to high heat.",
                     "Rub steak with olive oil, salt, and pepper.",
                     "Grill steak for 4-5 minutes per side for medium-rare.",
-                    "Let steak rest for 5 minutes before slicing and serving."
+                    "Let steak rest for 5 minutes before slicing and serving.",
+                    "Serve with rice."
                 ]
             },
             {
                 "name": "Truffle Risotto",
-                "rating": 4.2,
+                "rating": 4.5,
                 "picture": "https://media.istockphoto.com/id/158176199/photo/mushrooms-risotto-with-truffles.jpg?s=612x612&w=0&k=20&c=eyt1kFuAmKIyRzrKKnLKT0qz_bLEGErozZVojU4SrPc=",
                 "method": [
                     "Heat chicken broth in a saucepan over medium heat.",
@@ -188,7 +191,7 @@
             },
             {
                 "name": "Caramelized Onion and Goat Cheese Tart",
-                "rating": 4.5,
+                "rating": 4.4,
                 "picture": "https://media.istockphoto.com/id/1344798872/photo/butternut-squash-galette-with-caramelized-onion-and-crumbled-feta-cheese-on-a-wood-board-on-a.jpg?s=612x612&w=0&k=20&c=6BX_eqXSyWgBWHdyavRpGcMGjNzOU0byB4zYmJ4bMjU=",
                 "method": [
                     "Preheat oven to 400°F.",
@@ -227,7 +230,7 @@
             },
             {
                 "name": "Ginger Soy Glazed Salmon",
-                "rating": 4.5,
+                "rating": 4.8,
                 "picture": "https://media.istockphoto.com/id/1011033408/photo/salmon-belly-grilled-teriyaki.jpg?s=612x612&w=0&k=20&c=Crx0oSQJS0GWgRXiVikvp_mmgMZRcj5d2IjjqSI42Sw=",
                 "method": [
                     "Preheat oven to 375°F.",
@@ -244,7 +247,9 @@
                 "method": [
                     "Blend together frozen mixed berries, almond milk, and a banana in a blender until smooth.",
                     "Pour the smoothie into a bowl and top with sliced fruit (such as kiwi, strawberries, and blueberries), granola, and a drizzle of honey.",
-                    "Serve immediately."
+                    "Serve immediately.",
+                    "Preheat grill to high heat.",
+                    "Rub steak with olive oil, salt, and pepper."
                 ]
             }
         ]
@@ -275,7 +280,7 @@
             },
             {
                 "name": "Korean Fried Chicken",
-                "rating": 4.7,
+                "rating": 4.2,
                 "picture": "https://media.istockphoto.com/id/694433058/photo/korea-style-chicken.jpg?s=612x612&w=0&k=20&c=OfRJJ7ipDk-drFrxW-7ZseOOiXJnY3sIhb3IXU3165o=",
                 "method": [
                     "Mix together flour, cornstarch, salt, and pepper in a bowl.",
@@ -288,7 +293,7 @@
             },
             {
                 "name": "Korean Beef Bulgogi",
-                "rating": 4.7,
+                "rating": 4.3,
                 "picture": "https://media.istockphoto.com/id/155153533/photo/bulgogi-on-a-wooden-platter-on-a-straw-table.jpg?s=612x612&w=0&k=20&c=ZpPpcLvdPxavpBU-cZF92iX9Jhl9lQZKeRWocDsUu3U=",
                 "method": [
                     "Mix together soy sauce, sugar, sesame oil, garlic, and ginger in a bowl.",
